@@ -1,19 +1,14 @@
-[
-	{
-		"name": "SkullBolt",
-		"author": "Wallace Clark",
-		"url":"https://themesbywalleewoo.files.wordpress.com/2022/03/picsart_22-01-27_05-10-43-122.jpg",
-		"downloadable": true,
-		"dimensions": "768 x 1364px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Desert Moon",
-		"author": "Wallace Clark",
-		"url": "https://themesbywalleewoo.files.wordpress.com/2022/03/desert-moon-2.png",
-		"downloadable": true,
-      "size": 345066,
-      "dimensions": "1024 x 1024px" 
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
-]
+{
+  "wallpapers": [
+    {
+      "author": "Wallace Clark",
+      "url": "https://themesbywalleewoo.files.wordpress.com/2022/03/picsart_22-01-27_05-10-43-122.jpg",
+      "name": "Skull"
+    },
+    {
+      "author": "Wallace Clark",
+      "url": "https://themesbywalleewoo.files.wordpress.com/2022/03/desert-moon-2.png",
+      "name": "Desert Moon"
+    }
+  ]
+}
